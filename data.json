@@ -53,7 +53,7 @@
       "description": "Ultra HD 4K smart TV with vibrant colors and voice assistant integration.",
       "price": 999.99,
       "stock": 40,
-      "image": "https://images.unsplash.com/photo-1546538915-a9e2c8d0a8e7"
+      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "productName": "Gaming Console",
@@ -93,7 +93,7 @@
       "description": "1TB external hard drive with fast data transfer and durable build.",
       "price": 79.99,
       "stock": 220,
-      "image": "https://images.unsplash.com/photo-1581349485608-9469926a8e5b"
+      "image": "https://images.unsplash.com/photo-1613070541337-b40942ee6527?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "productName": "Power Bank",
@@ -133,7 +133,7 @@
       "description": "Quick-boil electric kettle with temperature control and auto shut-off.",
       "price": 49.99,
       "stock": 200,
-      "image": "https://images.unsplash.com/photo-1606755456206-b25206bfa233"
+      "image": "https://images.unsplash.com/photo-1643114786355-ff9e52736eab?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "productName": "Blender",
@@ -141,7 +141,7 @@
       "description": "High-speed blender for smoothies, soups, and more with a powerful motor.",
       "price": 89.99,
       "stock": 180,
-      "image": "https://images.unsplash.com/photo-1573521193826-58c7dc2e509e"
+      "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "productName": "Air Purifier",
