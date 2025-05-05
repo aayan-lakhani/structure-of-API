@@ -5,7 +5,7 @@
       "description": "Latest 5G smartphone with high resolution camera and long-lasting battery.",
       "price": 799.99,
       "stock": 150,
-      "image": "https://images.unsplash.com/photo-1588702547983-8c7b1d6870e3"
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb"
     },
     {
       "productName": "Laptop",
@@ -13,7 +13,7 @@
       "description": "Powerful laptop for gaming and professional use with high-end GPU.",
       "price": 1299.99,
       "stock": 80,
-      "image": "https://images.unsplash.com/photo-1581091870625-d8ff9f27f3f2"
+      "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45"
     },
     {
       "productName": "Wireless Headphones",
@@ -21,7 +21,7 @@
       "description": "Noise-cancelling wireless headphones with deep bass and long battery life.",
       "price": 149.99,
       "stock": 200,
-      "image": "https://images.unsplash.com/photo-1605072110328-f17e3dbb9e11"
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
     },
     {
       "productName": "Smart Watch",
@@ -29,7 +29,7 @@
       "description": "Wearable smart watch with fitness tracking and heart rate monitor.",
       "price": 199.99,
       "stock": 120,
-      "image": "https://images.unsplash.com/photo-1574769603041-c538e0b736b0"
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
     },
     {
       "productName": "Bluetooth Speaker",
@@ -37,7 +37,7 @@
       "description": "Portable Bluetooth speaker with crisp sound and waterproof design.",
       "price": 89.99,
       "stock": 300,
-      "image": "https://images.unsplash.com/photo-1606783382240-38ecb90d9b3f"
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb"
     },
     {
       "productName": "Tablet",
@@ -45,7 +45,7 @@
       "description": "High-resolution tablet with stylus support and long battery life.",
       "price": 499.99,
       "stock": 95,
-      "image": "https://images.unsplash.com/photo-1566476864-10d40a7bc2b1"
+      "image": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7"
     },
     {
       "productName": "4K TV",
@@ -53,7 +53,7 @@
       "description": "Ultra HD 4K smart TV with vibrant colors and voice assistant integration.",
       "price": 999.99,
       "stock": 40,
-      "image": "https://images.unsplash.com/photo-1600986339173-0a1b0b95d03b"
+      "image": "https://images.unsplash.com/photo-1546538915-a9e2c8d0a8e7"
     },
     {
       "productName": "Gaming Console",
@@ -61,7 +61,7 @@
       "description": "Next-gen gaming console with ultra-fast load times and 4K support.",
       "price": 499.99,
       "stock": 150,
-      "image": "https://images.unsplash.com/photo-1600380380155-b235b8d54b2f"
+      "image": "https://images.unsplash.com/photo-1607853202273-797f1c22a38e"
     },
     {
       "productName": "Camera",
@@ -69,7 +69,7 @@
       "description": "Professional DSLR camera with 4K video recording capabilities.",
       "price": 1299.99,
       "stock": 75,
-      "image": "https://images.unsplash.com/photo-1603250474671-90c2742e2b7e"
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32"
     },
     {
       "productName": "Gaming Mouse",
@@ -77,7 +77,7 @@
       "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
       "price": 69.99,
       "stock": 250,
-      "image": "https://images.unsplash.com/photo-1598472662865-86b97e548d51"
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db"
     },
     {
       "productName": "Keyboard",
@@ -85,7 +85,7 @@
       "description": "Mechanical keyboard with RGB lighting and programmable keys.",
       "price": 129.99,
       "stock": 180,
-      "image": "https://images.unsplash.com/photo-1571294340843-7d699a9039d7"
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
     },
     {
       "productName": "External Hard Drive",
@@ -93,7 +93,7 @@
       "description": "1TB external hard drive with fast data transfer and durable build.",
       "price": 79.99,
       "stock": 220,
-      "image": "https://images.unsplash.com/photo-1570211650582-2b60bc7410c2"
+      "image": "https://images.unsplash.com/photo-1581349485608-9469926a8e5b"
     },
     {
       "productName": "Power Bank",
@@ -101,7 +101,7 @@
       "description": "Portable power bank with fast charging for smartphones and tablets.",
       "price": 39.99,
       "stock": 400,
-      "image": "https://images.unsplash.com/photo-1580326814932-73b21089e617"
+      "image": "https://images.unsplash.com/photo-1598124146163-36819847286d"
     },
     {
       "productName": "Smart Thermostat",
@@ -109,7 +109,7 @@
       "description": "Smart thermostat for energy efficiency with app control and voice assistant.",
       "price": 129.99,
       "stock": 50,
-      "image": "https://images.unsplash.com/photo-1551079309-9631b7ab01f1"
+      "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df"
     },
     {
       "productName": "Electric Toothbrush",
@@ -117,7 +117,7 @@
       "description": "Electric toothbrush with multiple modes and long battery life.",
       "price": 59.99,
       "stock": 150,
-      "image": "https://images.unsplash.com/photo-1602733227535-30ba253f74d5"
+      "image": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e"
     },
     {
       "productName": "Coffee Maker",
@@ -125,7 +125,7 @@
       "description": "Automatic coffee maker with programmable features and built-in grinder.",
       "price": 99.99,
       "stock": 120,
-      "image": "https://images.unsplash.com/photo-1570912215761-06c1c21412c9"
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
     },
     {
       "productName": "Electric Kettle",
@@ -133,7 +133,7 @@
       "description": "Quick-boil electric kettle with temperature control and auto shut-off.",
       "price": 49.99,
       "stock": 200,
-      "image": "https://images.unsplash.com/photo-1581021076345-e105d9289a1b"
+      "image": "https://images.unsplash.com/photo-1606755456206-b25206bfa233"
     },
     {
       "productName": "Blender",
@@ -141,7 +141,7 @@
       "description": "High-speed blender for smoothies, soups, and more with a powerful motor.",
       "price": 89.99,
       "stock": 180,
-      "image": "https://images.unsplash.com/photo-1604160488034-cae61554537e"
+      "image": "https://images.unsplash.com/photo-1573521193826-58c7dc2e509e"
     },
     {
       "productName": "Air Purifier",
@@ -149,7 +149,7 @@
       "description": "Air purifier with HEPA filter for clean air and odor removal.",
       "price": 149.99,
       "stock": 100,
-      "image": "https://images.unsplash.com/photo-1583893556720-4513cd7f1d4c"
+      "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a482"
     },
     {
       "productName": "Fitness Tracker",
@@ -157,7 +157,6 @@
       "description": "Smart fitness tracker with heart rate monitor and sleep tracking.",
       "price": 79.99,
       "stock": 250,
-      "image": "https://images.unsplash.com/photo-1580796118002-87d2b7dfeee5"
+      "image": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288"
     }
-  ]
-  
+]
