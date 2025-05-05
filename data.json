@@ -1,91 +1,163 @@
 [
     {
-        "empName" : "Ali",
-        "empEmail" : "Ali@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
-    },
-
-    {
-        "empName" : "Raza",
-        "empEmail" : "Raza@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
-    },
-
-    {
-        "empName" : "Mohib",
-        "empEmail" : "Mohib@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
-    },
-
-    {
-        "empName" : "Ahmed",
-        "empEmail" : "Ahmed@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
+      "productName": "Smartphone",
+      "productId": "201",
+      "description": "Latest 5G smartphone with high resolution camera and long-lasting battery.",
+      "price": 799.99,
+      "stock": 150,
+      "image": "https://images.unsplash.com/photo-1588702547983-8c7b1d6870e3"
     },
     {
-        "empName" : "AhmedRaza",
-        "empEmail" : "AhmedRaza@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
+      "productName": "Laptop",
+      "productId": "202",
+      "description": "Powerful laptop for gaming and professional use with high-end GPU.",
+      "price": 1299.99,
+      "stock": 80,
+      "image": "https://images.unsplash.com/photo-1581091870625-d8ff9f27f3f2"
     },
-
     {
-        "empName" : "Salaar",
-        "empEmail" : "Salaar@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
+      "productName": "Wireless Headphones",
+      "productId": "203",
+      "description": "Noise-cancelling wireless headphones with deep bass and long battery life.",
+      "price": 149.99,
+      "stock": 200,
+      "image": "https://images.unsplash.com/photo-1605072110328-f17e3dbb9e11"
     },
-        
     {
-        "empName" : "SalaarAhmed",
-        "empEmail" : "SalaarAhmed@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
+      "productName": "Smart Watch",
+      "productId": "204",
+      "description": "Wearable smart watch with fitness tracking and heart rate monitor.",
+      "price": 199.99,
+      "stock": 120,
+      "image": "https://images.unsplash.com/photo-1574769603041-c538e0b736b0"
     },
-        
     {
-        "empName" : "ali",
-        "empEmail" : "ali@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
+      "productName": "Bluetooth Speaker",
+      "productId": "205",
+      "description": "Portable Bluetooth speaker with crisp sound and waterproof design.",
+      "price": 89.99,
+      "stock": 300,
+      "image": "https://images.unsplash.com/photo-1606783382240-38ecb90d9b3f"
     },
-        
     {
-        "empName" : "Usman",
-        "empEmail" : "Usman@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
+      "productName": "Tablet",
+      "productId": "206",
+      "description": "High-resolution tablet with stylus support and long battery life.",
+      "price": 499.99,
+      "stock": 95,
+      "image": "https://images.unsplash.com/photo-1566476864-10d40a7bc2b1"
     },
-
-        
     {
-        "empName" : "Rayyan",
-        "empEmail" : "Rayyan@gamil.com",
-        "empadd" : "Karachi-Pakistan",
-        "empNumber" : "+9234567890",
-        "empSalary" : "1000000"
-
+      "productName": "4K TV",
+      "productId": "207",
+      "description": "Ultra HD 4K smart TV with vibrant colors and voice assistant integration.",
+      "price": 999.99,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1600986339173-0a1b0b95d03b"
+    },
+    {
+      "productName": "Gaming Console",
+      "productId": "208",
+      "description": "Next-gen gaming console with ultra-fast load times and 4K support.",
+      "price": 499.99,
+      "stock": 150,
+      "image": "https://images.unsplash.com/photo-1600380380155-b235b8d54b2f"
+    },
+    {
+      "productName": "Camera",
+      "productId": "209",
+      "description": "Professional DSLR camera with 4K video recording capabilities.",
+      "price": 1299.99,
+      "stock": 75,
+      "image": "https://images.unsplash.com/photo-1603250474671-90c2742e2b7e"
+    },
+    {
+      "productName": "Gaming Mouse",
+      "productId": "210",
+      "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
+      "price": 69.99,
+      "stock": 250,
+      "image": "https://images.unsplash.com/photo-1598472662865-86b97e548d51"
+    },
+    {
+      "productName": "Keyboard",
+      "productId": "211",
+      "description": "Mechanical keyboard with RGB lighting and programmable keys.",
+      "price": 129.99,
+      "stock": 180,
+      "image": "https://images.unsplash.com/photo-1571294340843-7d699a9039d7"
+    },
+    {
+      "productName": "External Hard Drive",
+      "productId": "212",
+      "description": "1TB external hard drive with fast data transfer and durable build.",
+      "price": 79.99,
+      "stock": 220,
+      "image": "https://images.unsplash.com/photo-1570211650582-2b60bc7410c2"
+    },
+    {
+      "productName": "Power Bank",
+      "productId": "213",
+      "description": "Portable power bank with fast charging for smartphones and tablets.",
+      "price": 39.99,
+      "stock": 400,
+      "image": "https://images.unsplash.com/photo-1580326814932-73b21089e617"
+    },
+    {
+      "productName": "Smart Thermostat",
+      "productId": "214",
+      "description": "Smart thermostat for energy efficiency with app control and voice assistant.",
+      "price": 129.99,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1551079309-9631b7ab01f1"
+    },
+    {
+      "productName": "Electric Toothbrush",
+      "productId": "215",
+      "description": "Electric toothbrush with multiple modes and long battery life.",
+      "price": 59.99,
+      "stock": 150,
+      "image": "https://images.unsplash.com/photo-1602733227535-30ba253f74d5"
+    },
+    {
+      "productName": "Coffee Maker",
+      "productId": "216",
+      "description": "Automatic coffee maker with programmable features and built-in grinder.",
+      "price": 99.99,
+      "stock": 120,
+      "image": "https://images.unsplash.com/photo-1570912215761-06c1c21412c9"
+    },
+    {
+      "productName": "Electric Kettle",
+      "productId": "217",
+      "description": "Quick-boil electric kettle with temperature control and auto shut-off.",
+      "price": 49.99,
+      "stock": 200,
+      "image": "https://images.unsplash.com/photo-1581021076345-e105d9289a1b"
+    },
+    {
+      "productName": "Blender",
+      "productId": "218",
+      "description": "High-speed blender for smoothies, soups, and more with a powerful motor.",
+      "price": 89.99,
+      "stock": 180,
+      "image": "https://images.unsplash.com/photo-1604160488034-cae61554537e"
+    },
+    {
+      "productName": "Air Purifier",
+      "productId": "219",
+      "description": "Air purifier with HEPA filter for clean air and odor removal.",
+      "price": 149.99,
+      "stock": 100,
+      "image": "https://images.unsplash.com/photo-1583893556720-4513cd7f1d4c"
+    },
+    {
+      "productName": "Fitness Tracker",
+      "productId": "220",
+      "description": "Smart fitness tracker with heart rate monitor and sleep tracking.",
+      "price": 79.99,
+      "stock": 250,
+      "image": "https://images.unsplash.com/photo-1580796118002-87d2b7dfeee5"
     }
-]
+  ]
+  
